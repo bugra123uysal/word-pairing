@@ -1,0 +1,56 @@
+#türkçe{
+    position: absolute;
+   top: 10px;
+
+   left: 10px;
+
+
+    
+}
+#turkkelimeleri{
+display: flex;
+margin: 20px;
+    height: 30px;
+    width: 150px;
+    text-align: center;
+    border: solid 1px red;
+
+
+}
+
+#ingilizce{
+    position: absolute;
+    right: 10px;
+    top: 10px;
+
+}
+#ingilizcekelimeler {
+    display: flex;
+    margin: 20px;
+   
+    height: 30px;
+    width: 150px;
+    text-align: center;
+    border: solid 1px red;
+
+}
+
+
+/* türkçe kelime */
+#kkk{
+    position: absolute;
+    left: 300px;
+    top: 300px;
+    float: right;
+
+}
+
+/* ingilizce kelime */
+#ııı{
+    
+    position: absolute;
+    right: 300px;
+    top: 300px;
+    float: right;
+
+}
